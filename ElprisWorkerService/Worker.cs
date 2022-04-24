@@ -2,6 +2,7 @@ using Confluent.Kafka;
 using System.Net;
 using Microsoft.Extensions.Configuration;
 using System.Text.Json;
+using ElprisWorkerService.Models;
 
 namespace ElprisWorkerService
 {
